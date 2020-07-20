@@ -1,0 +1,15 @@
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\bin\Debug\CzasDoKonca.exe.config
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\bin\Debug\CzasDoKonca.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\bin\Debug\CzasDoKonca.pdb
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca.csprojAssemblyReference.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\MainWindow.g.cs
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\App.g.cs
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca_MarkupCompile.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca_MarkupCompile.lref
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\MainWindow.baml
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca.g.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca.Properties.Resources.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca.csproj.GenerateResource.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca.csproj.CoreCompileInputs.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 28 - Kalkulator Dat\CzasDoKonca\obj\Debug\CzasDoKonca.pdb
